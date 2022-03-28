@@ -11,6 +11,7 @@
   inputs.src-neo-0_1_4.ref   = "refs/tags/0.1.4";
   inputs.src-neo-0_1_4.owner = "andreaferretti";
   inputs.src-neo-0_1_4.repo  = "neo";
+  inputs.src-neo-0_1_4.dir   = "";
   inputs.src-neo-0_1_4.type  = "github";
   
   inputs."nimblas".owner = "nim-nix-pkgs";
