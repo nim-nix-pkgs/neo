@@ -11,7 +11,6 @@
   inputs.src-neo-master.ref   = "refs/heads/master";
   inputs.src-neo-master.owner = "andreaferretti";
   inputs.src-neo-master.repo  = "neo";
-  inputs.src-neo-master.dir   = "";
   inputs.src-neo-master.type  = "github";
   
   inputs."nimblas".owner = "nim-nix-pkgs";
